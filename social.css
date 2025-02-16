@@ -803,6 +803,10 @@ main .container .right {
     .customize-theme .card {
         width: 90vw;
     }
+     .customize-theme .choose-bg {
+        flex-flow: wrap;
+        width: 50%;
+    }
     .customize-theme .choose-bg>div {
         margin-top: 1rem;
         padding: 0.5rem
